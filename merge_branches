@@ -1,5 +1,9 @@
-﻿Updating 295a95c..4400ce9
+﻿$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+$ git merge bug-fix-typo
+Updating 295a95c..4400ce9
 Fast-forward
- change.txt | Bin 0 -> 36 bytes
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 change.txt
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
